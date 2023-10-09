@@ -1,6 +1,6 @@
 # BebaApp-Backend
 
-Welcome to the backend repository of our transportation app project. This repository contains the codebase for the server built using C# (ASP.NET) and MongoDB.
+Welcome to the backend repository of our Beba app project. This repository contains the codebase for the server built using C# (ASP.NET) and MongoDB.
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ Welcome to the backend repository of our transportation app project. This reposi
 
 1. Clone this repository to your local machine:
    ```
-   git clone link
+   git clone https://github.com/kennywam/BebaApp-Backend.git
    ```
 
 2. Navigate to the project directory:
